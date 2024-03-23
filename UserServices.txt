@@ -1,3 +1,6 @@
 first enter the user details
 then login with their credentials
 processing the user data
+
+creating new avatars for users
+
