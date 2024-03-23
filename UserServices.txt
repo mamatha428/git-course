@@ -4,3 +4,5 @@ processing the user data
 
 creating new avatars for users
 
+
+updating avatars
